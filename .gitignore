@@ -1,0 +1,5 @@
+# Executable Files
+**/*.exe
+
+# Visual Stuido Code Settings
+.vscode/
